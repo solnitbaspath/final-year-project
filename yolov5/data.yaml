@@ -1,0 +1,6 @@
+train: ../../yolov5/flood/train/images
+val: ../../yolov5/flood/valid/images
+test: ../../yolov5/flood/test/images
+
+nc: 13
+names: ['flood', 'level 0', 'level 1', 'level 10', 'level 11', 'level 2', 'level 3', 'level 4', 'level 5', 'level 6', 'level 7', 'level 8', 'level 9']
